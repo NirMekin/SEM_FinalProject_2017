@@ -1,0 +1,4 @@
+﻿  TextBox.cpp
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\textbox\textbox.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\textbox\textbox.cpp(122): warning C4018: '>': signed/unsigned mismatch
+  TextBox.vcxproj -> C:\Users\Nir Mekin\Documents\Visual Studio 2015\Projects\SEM_FinalProject_2017\Debug\TextBox.lib

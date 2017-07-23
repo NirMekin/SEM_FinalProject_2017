@@ -1,0 +1,6 @@
+﻿  Control.cpp
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\control\control.cpp(66): warning C4309: 'return': truncation of constant value
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\control\control.cpp(68): warning C4309: 'return': truncation of constant value
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\control\control.cpp(75): warning C4309: 'return': truncation of constant value
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\control\control.cpp(77): warning C4309: 'return': truncation of constant value
+  Control.vcxproj -> C:\Users\Nir Mekin\Documents\Visual Studio 2015\Projects\SEM_FinalProject_2017\Debug\Control.lib

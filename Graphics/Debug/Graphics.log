@@ -1,0 +1,3 @@
+﻿  Graphics.cpp
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\graphics\graphics.cpp(131): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  Graphics.vcxproj -> C:\Users\Nir Mekin\Documents\Visual Studio 2015\Projects\SEM_FinalProject_2017\Debug\Graphics.lib

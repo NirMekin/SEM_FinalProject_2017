@@ -1,0 +1,7 @@
+﻿  Panel.cpp
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\panel\panel.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  ListPanel.cpp
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\panel\listpanel.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\nir mekin\documents\visual studio 2015\projects\sem_finalproject_2017\panel\listpanel.cpp(34): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Panel.vcxproj -> C:\Users\Nir Mekin\Documents\Visual Studio 2015\Projects\SEM_FinalProject_2017\Debug\Panel.lib
